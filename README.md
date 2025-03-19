@@ -1,4 +1,4 @@
-# Relationship Between Liver Cirrhosis and Various Clinical Indices
+[hepatitis_C_EHRs_Japan.csv](https://github.com/user-attachments/files/19348305/hepatitis_C_EHRs_Japan.csv)# Relationship Between Liver Cirrhosis and Various Clinical Indices
 ## Table of Contents
 •	Project Overview
 
@@ -24,6 +24,9 @@ This project analyzes and visualizes the relationship between liver cirrhosis an
 •	Power BI (for data transformation and visualization)
 ## Data Sources
 •	Hepatitis dataset obtained from Kaggle
+
+Find the dataset attached in the repository
+
 ## Dataset
 The dataset consists of 123 records and 13 columns, including:
 
