@@ -1,4 +1,4 @@
-[hepatitis_C_EHRs_Japan.csv](https://github.com/user-attachments/files/19348305/hepatitis_C_EHRs_Japan.csv)# Relationship Between Liver Cirrhosis and Various Clinical Indices
+# Relationship Between Liver Cirrhosis and Various Clinical Indices
 ## Table of Contents
 •	Project Overview
 
